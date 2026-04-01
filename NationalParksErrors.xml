@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!-- error 1: root element is NationalPark instead of NationalParks -->
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://julpool.github.io/cse445-a4/NationalParks.xsd">
     <NationalPark Rating="4.9">
